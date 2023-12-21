@@ -1,0 +1,225 @@
+*{
+    margin: 0px;
+}
+body{
+    
+}
+.c{
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+.c2{
+    width: 65%;
+    box-shadow: 1px 1px 12px black;
+    box-shadow: 1px 1px 12px black;
+    background-color: white;
+    height: 490px;
+
+}
+.c1{
+    width: 30%;
+    box-shadow: 1px 1px 12px black;
+    box-shadow: 1px 1px 12px black;
+    margin-left: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    
+    
+}
+.c1 h1{
+    color: black;
+    position: absolute;
+    top: 330px;
+    
+    font-size: large;
+}
+.c1 img{
+    width: 100%;
+  
+}
+.c1 h4{
+    color: grey;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+.c1 h2{
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:15px ;
+}
+.c1 h3{
+    color: grey;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+.c1i1{
+width: 90%;
+height: 15px;
+background-color: grey;
+border: 1px solid grey;
+border-radius: 5px;
+margin-left: 10px;
+}
+.c1i1 p{
+    color: green;
+    width: 100%;
+font-size: small;
+color: white;
+margin-left: 50%;
+margin-top: auto;
+}
+.c1i2{
+    width: 78%;
+    height: 15px;
+    background-color: grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-left: 10px;
+    }
+    .c1i2 p{
+        color: green;
+        width: 100%;
+    font-size: small;
+    color: white;
+    margin-left: 50%;
+    margin-top: auto;
+    }
+    .c1i3{
+        width: 70%;
+        height: 15px;
+        background-color: grey;
+        border: 1px solid grey;
+        border-radius: 5px;
+        margin-left: 10px;
+        }
+        .c1i3 p{
+            ;
+            width: 100%;
+        font-size: small;
+        color: white;
+        margin-left: 50%;
+        margin-top: auto;
+        }
+        .c1i4{
+            width: 48%;
+            height: 15px;
+            background-color: grey;
+            border: 1px solid grey;
+            border-radius: 5px;
+            margin-left: 10px;
+            }
+            .c1i4 p{
+                color: grey;
+                width: 100%;
+            font-size: small;
+            color: white;
+            margin-left: 50%;
+            margin-top: auto;
+            }
+            .c1i5{
+                width: 90%;
+                height: 15px;
+                background-color: grey;
+                border: 1px solid grey;
+                border-radius: 5px;
+                margin-left: 10px;
+                }
+                .c1i5 p{
+                    color: grey;
+                    width: 100%;
+                font-size: small;
+                color: white;
+                margin-left: 50%;
+                margin-top: auto;
+                }
+                .c1i6{
+                    width: 60%;
+                    height: 15px;
+                    background-color: grey;
+                    border: 1px solid grey;
+                    border-radius: 5px;
+                    margin-left: 10px;
+                    }
+                    .c1i6 p{
+                        color: grey;
+                        width: 100%;
+                    font-size: small;
+                    color: white;
+                    margin-left: 50%;
+                    margin-top: auto;
+                    }
+                    .c1i7{
+                        width: 30%;
+                        height: 15px;
+                        background-color: grey;
+                        border: 1px solid grey;
+                        border-radius: 5px;
+                        margin-left: 10px;
+                        }
+                 .c2 h1{
+                    color: grey;
+                    padding-left: 10px;
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+                 } 
+                 .c2 h3{
+                    padding-left: 10px;
+                    color: grey;
+                    padding-left: 10px;
+                    padding-bottom;5px: 
+                 }
+                 .c2 p{
+                    padding-left: 10px;
+                    color: grey;
+                   padding-top: 5px;
+                    padding-bottom: 30px;
+                    margin-bottom: 20px;
+                 } 
+                 
+                 } 
+                 span{
+                    background-color: gray;
+                    color: white;
+                 }
+                 .c3{
+                    box-shadow: 1px 1px 12px black;
+                    box-shadow: 1px 1px 12px black;
+                   
+                    background-color: white;
+                    margin-top: 70px;
+                    
+
+                 }
+                 .t{
+                    padding-left: 10px;
+                    color: grey;
+                   padding-top: 5px;
+                   font-size:20px;
+                 }
+                 .t1{
+                    font-size: larger;
+                   
+                    
+                 }
+                 .c3 h1{
+                    padding-top: 20px;
+                    padding-bottom: 30px;
+                   
+                 }
+                 .c3 h3{
+                    padding-top: 10px;
+                    padding-bottom: 20px;
+                 }
+                 .c3 .t{
+                    padding-top: 10px;
+                    padding-bottom: 20px;
+                 }
+
+                 
+                      
+                       
